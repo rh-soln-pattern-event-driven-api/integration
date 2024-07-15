@@ -1,4 +1,4 @@
-# wds-creator
+# order-event-simulator
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
