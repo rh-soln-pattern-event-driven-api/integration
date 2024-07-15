@@ -1,4 +1,4 @@
-# wds-creator
+# webhook creator
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
